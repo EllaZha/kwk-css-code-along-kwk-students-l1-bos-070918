@@ -5,5 +5,5 @@ body {
     }
     .myClass {
       background-color: gray;
-      color: blue;font-family:Space Mono;font-size:300%;
+      color: blue;font-family:font-family: 'Space Mono', monospace;;font-size:300%;
     }
